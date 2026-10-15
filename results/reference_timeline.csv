@@ -1,0 +1,133 @@
+algorithm,step,burned_area_cells,active_fire_cells,peak_active_fire_cells,buildings_damaged,buildings_saved,building_exposure_units,water_drops_used,drone_distance_cells,suppression_actions,remaining_water,remaining_battery_pct
+Nearest-Hotspot Baseline,0,4,4,4,0,9,0.0,0,0,0,14.0,100.0
+Nearest-Hotspot Baseline,1,7,7,7,0,9,0.0,0,6,0,14.0,97.7
+Nearest-Hotspot Baseline,2,11,11,11,0,9,0.0,0,12,0,14.0,95.3
+Nearest-Hotspot Baseline,3,16,15,16,0,9,0.0,1,18,1,13.0,91.6
+Nearest-Hotspot Baseline,4,18,14,17,0,9,0.0,2,20,4,12.0,89.4
+Nearest-Hotspot Baseline,5,25,21,21,0,9,0.0,2,20,4,12.0,89.4
+Nearest-Hotspot Baseline,6,27,23,23,0,9,0.0,2,20,4,12.0,89.4
+Nearest-Hotspot Baseline,7,32,27,28,0,9,0.0,4,22,5,10.0,85.8
+Nearest-Hotspot Baseline,8,37,32,32,0,9,0.0,5,22,5,9.0,84.4
+Nearest-Hotspot Baseline,9,39,28,32,0,9,0.0,7,26,8,7.0,80.1
+Nearest-Hotspot Baseline,10,40,28,32,0,9,0.0,7,26,8,7.0,80.1
+Nearest-Hotspot Baseline,11,42,27,32,0,9,0.0,7,26,8,7.0,80.1
+Nearest-Hotspot Baseline,12,43,24,32,0,9,0.0,7,26,8,7.0,80.1
+Nearest-Hotspot Baseline,13,43,22,32,0,9,0.0,9,28,10,5.0,76.5
+Nearest-Hotspot Baseline,14,44,17,32,0,9,0.0,9,28,10,5.0,76.5
+Nearest-Hotspot Baseline,15,46,17,32,0,9,0.0,9,28,10,5.0,76.5
+Nearest-Hotspot Baseline,16,48,14,32,0,9,0.0,9,28,10,5.0,76.5
+Nearest-Hotspot Baseline,17,50,13,32,0,9,0.58,9,28,10,5.0,76.5
+Nearest-Hotspot Baseline,18,53,14,32,0,9,1.24,9,28,10,5.0,76.5
+Nearest-Hotspot Baseline,19,54,14,32,0,9,2.0,9,34,10,5.0,74.1
+Nearest-Hotspot Baseline,20,59,17,32,0,9,2.86,9,40,10,5.0,71.8
+Nearest-Hotspot Baseline,21,62,15,32,0,9,4.4,11,45,14,3.0,67.0
+Nearest-Hotspot Baseline,22,66,19,32,1,8,6.64,11,45,14,3.0,67.0
+Nearest-Hotspot Baseline,23,70,23,32,1,8,9.06,11,45,14,3.0,67.0
+Nearest-Hotspot Baseline,24,72,24,32,1,8,11.68,11,45,14,3.0,67.0
+Nearest-Hotspot Baseline,25,74,21,32,1,8,14.5,13,50,17,1.0,62.3
+Nearest-Hotspot Baseline,26,75,21,32,2,7,17.46,13,53,17,1.0,61.1
+Nearest-Hotspot Baseline,27,75,20,32,3,6,20.46,13,56,17,1.0,60.0
+Nearest-Hotspot Baseline,28,75,19,32,3,6,23.46,13,59,17,1.0,58.8
+Nearest-Hotspot Baseline,29,79,20,32,3,6,26.46,13,62,17,1.0,57.6
+Nearest-Hotspot Baseline,30,82,20,32,3,6,29.46,13,65,17,1.0,56.4
+Nearest-Hotspot Baseline,31,85,19,32,3,6,32.46,14,71,17,0.0,52.7
+Nearest-Hotspot Baseline,32,88,18,32,3,6,33.46,14,77,17,0.0,50.4
+Nearest-Hotspot Baseline,33,91,19,32,3,6,33.46,14,83,17,0.0,48.0
+Nearest-Hotspot Baseline,34,98,24,32,3,6,33.46,14,86,17,1.8,54.9
+Nearest-Hotspot Baseline,35,102,27,32,3,6,33.46,14,89,17,3.6,61.7
+Nearest-Hotspot Baseline,36,110,35,35,3,6,34.62,14,92,17,5.4,68.5
+Nearest-Hotspot Baseline,37,115,40,40,3,6,35.94,14,95,17,7.0,71.9
+Nearest-Hotspot Baseline,38,120,41,41,3,6,37.46,14,98,17,7.0,70.7
+Nearest-Hotspot Baseline,39,125,43,43,3,6,39.18,14,101,17,7.0,69.5
+Nearest-Hotspot Baseline,40,134,49,49,3,6,41.68,14,104,17,7.0,68.4
+Nearest-Hotspot Baseline,41,139,51,51,5,4,44.34,14,104,17,8.8,76.4
+Nearest-Hotspot Baseline,42,142,51,51,5,4,47.68,14,104,17,10.6,84.4
+Nearest-Hotspot Baseline,43,146,48,51,5,4,51.2,14,107,17,12.4,91.2
+Nearest-Hotspot Baseline,44,150,48,51,5,4,55.5,14,110,17,14.0,97.7
+Nearest-Hotspot Baseline,45,155,45,51,6,3,59.02,14,113,17,14.0,96.5
+Nearest-Hotspot Baseline,46,161,46,51,6,3,62.74,14,116,17,14.0,95.3
+Nearest-Hotspot Baseline,47,166,44,51,7,2,67.18,15,119,19,13.0,92.8
+Nearest-Hotspot Baseline,48,171,44,51,7,2,71.76,15,119,19,13.0,92.8
+Nearest-Hotspot Baseline,49,177,40,51,8,1,75.52,16,124,20,12.0,89.4
+Nearest-Hotspot Baseline,50,185,44,51,8,1,79.38,16,127,20,12.0,88.2
+Nearest-Hotspot Baseline,51,188,45,51,8,1,83.92,16,130,20,12.0,87.1
+Nearest-Hotspot Baseline,52,193,43,51,8,1,88.58,17,133,23,11.0,84.5
+Nearest-Hotspot Baseline,53,202,48,51,8,1,93.34,17,133,23,11.0,84.5
+Nearest-Hotspot Baseline,54,211,52,52,8,1,98.2,17,133,23,11.0,84.5
+Nearest-Hotspot Baseline,55,218,53,54,8,1,102.92,19,135,24,9.0,80.9
+Nearest-Hotspot Baseline,56,221,48,54,9,0,105.78,21,139,27,7.0,76.5
+Nearest-Hotspot Baseline,57,225,49,54,9,0,107.74,21,139,27,7.0,76.5
+Nearest-Hotspot Baseline,58,229,47,54,9,0,109.74,21,139,27,7.0,76.5
+Nearest-Hotspot Baseline,59,232,44,54,9,0,111.74,21,139,27,7.0,76.5
+Nearest-Hotspot Baseline,60,233,42,54,9,0,113.74,21,139,27,7.0,76.5
+Nearest-Hotspot Baseline,61,237,40,54,9,0,115.74,23,141,29,5.0,73.0
+Nearest-Hotspot Baseline,62,240,35,54,9,0,116.74,24,141,29,4.0,71.6
+Nearest-Hotspot Baseline,63,241,28,54,9,0,117.74,25,141,29,3.0,70.2
+Nearest-Hotspot Baseline,64,242,23,54,9,0,118.74,25,144,29,3.0,69.0
+Nearest-Hotspot Baseline,65,242,20,54,9,0,119.74,25,147,29,3.0,67.8
+Fuzzy + Genetic Algorithm,0,4,4,4,0,9,0.0,0,0,0,14.0,100.0
+Fuzzy + Genetic Algorithm,1,7,7,7,0,9,0.0,0,6,0,14.0,97.7
+Fuzzy + Genetic Algorithm,2,11,11,11,0,9,0.0,0,12,0,14.0,95.3
+Fuzzy + Genetic Algorithm,3,16,15,16,0,9,0.0,1,18,1,13.0,91.6
+Fuzzy + Genetic Algorithm,4,18,15,17,0,9,0.0,2,21,3,12.0,89.0
+Fuzzy + Genetic Algorithm,5,25,21,22,0,9,0.0,3,21,4,11.0,87.6
+Fuzzy + Genetic Algorithm,6,26,22,22,0,9,0.0,4,21,4,10.0,86.2
+Fuzzy + Genetic Algorithm,7,30,25,26,0,9,0.0,6,24,5,8.0,82.2
+Fuzzy + Genetic Algorithm,8,34,29,29,0,9,0.0,8,24,5,6.0,79.4
+Fuzzy + Genetic Algorithm,9,38,29,30,0,9,0.0,10,27,6,4.0,75.5
+Fuzzy + Genetic Algorithm,10,39,27,30,0,9,0.0,12,27,6,2.0,72.7
+Fuzzy + Genetic Algorithm,11,42,27,30,0,9,0.0,13,30,6,1.0,70.1
+Fuzzy + Genetic Algorithm,12,43,24,30,0,9,0.0,14,35,7,0.0,66.8
+Fuzzy + Genetic Algorithm,13,43,23,30,0,9,0.0,14,41,7,0.0,64.4
+Fuzzy + Genetic Algorithm,14,44,18,30,0,9,0.0,14,47,7,0.0,62.1
+Fuzzy + Genetic Algorithm,15,46,19,30,0,9,0.0,14,53,7,0.0,59.7
+Fuzzy + Genetic Algorithm,16,48,17,30,0,9,0.0,14,56,7,1.8,66.6
+Fuzzy + Genetic Algorithm,17,50,16,30,0,9,0.58,14,58,7,3.6,73.8
+Fuzzy + Genetic Algorithm,18,53,15,30,0,9,1.24,14,58,7,7.2,87.3
+Fuzzy + Genetic Algorithm,19,54,15,30,0,9,2.0,14,58,7,10.6,95.3
+Fuzzy + Genetic Algorithm,20,59,17,30,0,9,2.86,14,58,7,12.4,100.0
+Fuzzy + Genetic Algorithm,21,62,19,30,0,9,4.4,14,58,7,14.0,100.0
+Fuzzy + Genetic Algorithm,22,66,23,30,1,8,6.64,14,58,7,14.0,100.0
+Fuzzy + Genetic Algorithm,23,70,26,30,1,8,9.06,14,58,7,14.0,100.0
+Fuzzy + Genetic Algorithm,24,72,26,30,1,8,11.68,14,58,7,14.0,100.0
+Fuzzy + Genetic Algorithm,25,74,26,30,1,8,14.5,14,64,7,14.0,97.7
+Fuzzy + Genetic Algorithm,26,75,25,30,2,7,17.46,14,70,7,14.0,95.3
+Fuzzy + Genetic Algorithm,27,75,22,30,3,6,20.46,14,76,7,14.0,93.0
+Fuzzy + Genetic Algorithm,28,75,21,30,3,6,23.46,14,82,7,14.0,90.6
+Fuzzy + Genetic Algorithm,29,79,20,30,3,6,26.46,14,88,7,14.0,88.3
+Fuzzy + Genetic Algorithm,30,82,20,30,3,6,29.46,14,94,7,14.0,86.0
+Fuzzy + Genetic Algorithm,31,85,19,30,3,6,32.46,14,100,7,14.0,83.6
+Fuzzy + Genetic Algorithm,32,88,13,30,3,6,33.46,16,103,12,12.0,79.6
+Fuzzy + Genetic Algorithm,33,90,13,30,3,6,33.46,16,103,12,12.0,79.6
+Fuzzy + Genetic Algorithm,34,95,17,30,3,6,33.46,16,103,12,12.0,79.6
+Fuzzy + Genetic Algorithm,35,97,18,30,3,6,33.46,16,103,12,12.0,79.6
+Fuzzy + Genetic Algorithm,36,100,21,30,3,6,34.04,16,103,12,12.0,79.6
+Fuzzy + Genetic Algorithm,37,102,20,30,3,6,34.7,17,109,15,11.0,75.9
+Fuzzy + Genetic Algorithm,38,104,18,30,3,6,35.46,18,114,17,10.0,72.6
+Fuzzy + Genetic Algorithm,39,105,15,30,3,6,35.46,19,117,19,9.0,70.0
+Fuzzy + Genetic Algorithm,40,108,16,30,3,6,35.46,19,117,19,9.0,70.0
+Fuzzy + Genetic Algorithm,41,111,16,30,3,6,35.46,19,117,19,9.0,70.0
+Fuzzy + Genetic Algorithm,42,111,14,30,3,6,35.46,19,117,19,9.0,70.0
+Fuzzy + Genetic Algorithm,43,113,12,30,3,6,35.46,20,120,20,8.0,67.4
+Fuzzy + Genetic Algorithm,44,114,9,30,3,6,35.46,21,123,23,7.0,64.8
+Fuzzy + Genetic Algorithm,45,114,7,30,3,6,35.46,22,123,23,6.0,63.4
+Fuzzy + Genetic Algorithm,46,114,6,30,3,6,35.46,23,123,23,5.0,62.0
+Fuzzy + Genetic Algorithm,47,114,6,30,3,6,35.46,24,123,23,4.0,60.6
+Fuzzy + Genetic Algorithm,48,114,5,30,3,6,35.46,24,126,23,4.0,59.5
+Fuzzy + Genetic Algorithm,49,114,3,30,3,6,35.46,24,132,23,4.0,57.1
+Fuzzy + Genetic Algorithm,50,114,1,30,3,6,35.46,25,135,24,3.0,54.6
+Fuzzy + Genetic Algorithm,51,114,1,30,3,6,35.46,26,138,24,2.0,52.0
+Fuzzy + Genetic Algorithm,52,114,1,30,3,6,35.46,27,141,24,1.0,49.4
+Fuzzy + Genetic Algorithm,53,114,0,30,3,6,35.46,27,144,24,1.0,48.3
+Fuzzy + Genetic Algorithm,54,114,0,30,3,6,35.46,27,147,24,1.0,47.1
+Fuzzy + Genetic Algorithm,55,114,0,30,3,6,35.46,27,150,24,1.0,45.9
+Fuzzy + Genetic Algorithm,56,114,0,30,3,6,35.46,27,153,24,1.0,44.7
+Fuzzy + Genetic Algorithm,57,114,0,30,3,6,35.46,27,156,24,1.0,43.6
+Fuzzy + Genetic Algorithm,58,114,0,30,3,6,35.46,27,159,24,1.0,42.4
+Fuzzy + Genetic Algorithm,59,114,0,30,3,6,35.46,27,159,24,2.8,50.4
+Fuzzy + Genetic Algorithm,60,114,0,30,3,6,35.46,27,159,24,4.6,58.4
+Fuzzy + Genetic Algorithm,61,114,0,30,3,6,35.46,27,159,24,6.4,66.4
+Fuzzy + Genetic Algorithm,62,114,0,30,3,6,35.46,27,159,24,8.0,74.4
+Fuzzy + Genetic Algorithm,63,114,0,30,3,6,35.46,27,159,24,8.0,78.7
+Fuzzy + Genetic Algorithm,64,114,0,30,3,6,35.46,27,159,24,8.0,78.7
+Fuzzy + Genetic Algorithm,65,114,0,30,3,6,35.46,27,159,24,8.0,78.7

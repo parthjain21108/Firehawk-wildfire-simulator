@@ -1,0 +1,51 @@
+preset,seed,steps,dryness,wind_speed,wind_dir,drone_count,algorithm,step,burned_area_cells,active_fire_cells,peak_active_fire_cells,buildings_damaged,buildings_saved,building_exposure_units,water_drops_used,drone_distance_cells,suppression_actions,remaining_water,remaining_battery_pct,first_suppression_step,containment_step,contained_by_end,total_buildings,total_drones,impact_score
+Calm & Clear,7,65,0.34,0.2,E,4,Nearest-Hotspot Baseline,65,10,0,8,0,9,2.0,5,73,9,23.0,82.3,6,8,True,9,4,12.35
+Calm & Clear,7,65,0.34,0.2,E,4,Fuzzy + Genetic Algorithm,65,9,0,8,0,9,2.0,4,76,8,24.0,82.4,6,7,True,9,4,12.15
+Calm & Clear,13,65,0.34,0.2,E,4,Nearest-Hotspot Baseline,65,16,0,9,0,9,0.0,9,60,15,19.0,82.0,4,13,True,9,4,14.0
+Calm & Clear,13,65,0.34,0.2,E,4,Fuzzy + Genetic Algorithm,65,13,0,9,0,9,0.0,6,52,11,22.0,85.7,4,13,True,9,4,11.7
+Calm & Clear,29,65,0.34,0.2,E,4,Nearest-Hotspot Baseline,65,8,0,5,2,7,9.06,6,63,8,22.0,83.5,5,7,True,9,4,21.53
+Calm & Clear,29,65,0.34,0.2,E,4,Fuzzy + Genetic Algorithm,65,8,0,5,2,7,9.06,6,63,8,22.0,83.5,5,7,True,9,4,21.53
+Calm & Clear,47,65,0.34,0.2,E,4,Nearest-Hotspot Baseline,65,3,0,3,0,9,0.0,4,59,3,24.0,85.7,5,6,True,9,4,7.4
+Calm & Clear,47,65,0.34,0.2,E,4,Fuzzy + Genetic Algorithm,65,3,0,3,0,9,0.0,4,60,3,24.0,85.5,5,6,True,9,4,7.5
+Calm & Clear,71,65,0.34,0.2,E,4,Nearest-Hotspot Baseline,65,79,0,19,1,8,11.06,25,163,34,17.0,75.7,4,36,True,9,4,61.58
+Calm & Clear,71,65,0.34,0.2,E,4,Fuzzy + Genetic Algorithm,65,58,0,19,0,9,0.0,18,138,29,17.0,74.4,4,25,True,9,4,42.8
+Windy & Dry,7,65,0.91,0.9,E,2,Nearest-Hotspot Baseline,65,242,20,54,9,0,119.74,25,147,29,3.0,67.8,3,,False,9,2,188.19
+Windy & Dry,7,65,0.91,0.9,E,2,Fuzzy + Genetic Algorithm,65,114,0,30,3,6,35.46,27,159,24,8.0,78.7,3,53,True,9,2,90.29
+Windy & Dry,13,65,0.91,0.9,E,2,Nearest-Hotspot Baseline,65,245,1,54,5,4,67.1,26,149,25,5.6,74.6,5,,False,9,2,166.58
+Windy & Dry,13,65,0.91,0.9,E,2,Fuzzy + Genetic Algorithm,65,180,20,43,3,6,40.94,23,114,37,5.0,74.1,5,,False,9,2,118.92
+Windy & Dry,29,65,0.91,0.9,E,2,Nearest-Hotspot Baseline,65,275,12,99,9,0,117.3,23,128,20,5.0,66.3,2,,False,9,2,202.73
+Windy & Dry,29,65,0.91,0.9,E,2,Fuzzy + Genetic Algorithm,65,33,0,24,0,9,0.0,9,34,11,5.0,74.1,2,22,True,9,2,19.9
+Windy & Dry,47,65,0.91,0.9,E,2,Nearest-Hotspot Baseline,65,285,16,61,9,0,128.34,23,141,31,8.6,82.7,3,,False,9,2,209.31
+Windy & Dry,47,65,0.91,0.9,E,2,Fuzzy + Genetic Algorithm,65,248,0,58,9,0,109.34,25,115,28,3.0,61.6,3,57,True,9,2,187.73
+Windy & Dry,71,65,0.91,0.9,E,2,Nearest-Hotspot Baseline,65,254,0,73,9,0,135.72,18,144,23,10.0,67.1,2,56,True,9,2,194.29
+Windy & Dry,71,65,0.91,0.9,E,2,Fuzzy + Genetic Algorithm,65,270,0,93,9,0,135.72,15,132,27,13.0,89.2,2,56,True,9,2,201.09
+Near Buildings,7,65,0.67,0.48,N,4,Nearest-Hotspot Baseline,65,34,0,22,3,6,32.18,18,126,24,10.0,62.8,7,19,True,9,4,46.9
+Near Buildings,7,65,0.67,0.48,N,4,Fuzzy + Genetic Algorithm,65,39,0,22,3,6,38.0,20,134,21,8.0,59.9,7,17,True,9,4,50.35
+Near Buildings,13,65,0.67,0.48,N,4,Nearest-Hotspot Baseline,65,54,0,26,2,7,27.7,20,168,25,22.0,81.8,7,25,True,9,4,55.49
+Near Buildings,13,65,0.67,0.48,N,4,Fuzzy + Genetic Algorithm,65,40,0,26,2,7,17.34,21,133,27,7.0,59.4,8,19,True,9,4,44.73
+Near Buildings,29,65,0.67,0.48,N,4,Nearest-Hotspot Baseline,65,37,0,24,1,8,9.82,26,145,27,16.0,78.5,5,20,True,9,4,38.75
+Near Buildings,29,65,0.67,0.48,N,4,Fuzzy + Genetic Algorithm,65,104,0,24,2,7,23.02,25,280,55,23.0,87.1,5,47,True,9,4,91.58
+Near Buildings,47,65,0.67,0.48,N,4,Nearest-Hotspot Baseline,65,35,0,33,2,7,20.06,24,135,24,11.0,71.9,6,13,True,9,4,42.5
+Near Buildings,47,65,0.67,0.48,N,4,Fuzzy + Genetic Algorithm,65,38,0,34,2,7,18.06,15,125,19,13.0,65.1,7,15,True,9,4,42.95
+Near Buildings,71,65,0.67,0.48,N,4,Nearest-Hotspot Baseline,65,64,0,35,5,4,54.12,12,158,18,16.0,60.8,8,27,True,9,4,76.65
+Near Buildings,71,65,0.67,0.48,N,4,Fuzzy + Genetic Algorithm,65,62,0,36,6,3,53.12,25,249,24,24.0,88.8,8,21,True,9,4,90.23
+Resource Constrained,7,65,0.79,0.65,W,2,Nearest-Hotspot Baseline,65,257,12,69,9,0,138.18,18,161,23,2.0,75.9,9,,False,9,2,197.55
+Resource Constrained,7,65,0.79,0.65,W,2,Fuzzy + Genetic Algorithm,65,102,0,30,3,6,26.86,11,139,19,9.0,94.3,9,42,True,9,2,82.07
+Resource Constrained,13,65,0.79,0.65,W,2,Nearest-Hotspot Baseline,65,31,0,26,2,7,27.36,3,56,5,7.0,74.0,9,18,True,9,2,32.78
+Resource Constrained,13,65,0.79,0.65,W,2,Fuzzy + Genetic Algorithm,65,39,0,26,3,6,34.72,8,100,12,2.0,49.8,10,25,True,9,2,46.87
+Resource Constrained,29,65,0.79,0.65,W,2,Nearest-Hotspot Baseline,65,277,0,80,9,0,107.44,17,127,23,3.0,71.9,7,62,True,9,2,203.39
+Resource Constrained,29,65,0.79,0.65,W,2,Fuzzy + Genetic Algorithm,65,275,0,62,9,0,112.9,15,147,24,5.0,76.2,7,63,True,9,2,204.52
+Resource Constrained,47,65,0.79,0.65,W,2,Nearest-Hotspot Baseline,65,275,11,54,8,1,99.82,20,158,22,0.0,70.4,9,,False,9,2,199.8
+Resource Constrained,47,65,0.79,0.65,W,2,Fuzzy + Genetic Algorithm,65,237,0,55,8,1,90.66,20,203,28,10.0,98.8,9,62,True,9,2,185.07
+Resource Constrained,71,65,0.79,0.65,W,2,Nearest-Hotspot Baseline,65,213,0,60,5,4,78.68,13,162,17,7.0,80.2,8,54,True,9,2,152.17
+Resource Constrained,71,65,0.79,0.65,W,2,Fuzzy + Genetic Algorithm,65,200,0,65,4,5,56.22,20,178,31,10.0,100.0,8,60,True,9,2,141.21
+Randomized Scenario,7,65,0.554,0.271,N,4,Nearest-Hotspot Baseline,65,37,0,26,3,6,29.04,25,156,23,17.0,81.8,6,15,True,9,4,51.33
+Randomized Scenario,7,65,0.554,0.271,N,4,Fuzzy + Genetic Algorithm,65,75,0,27,3,6,26.14,28,222,32,28.0,100.0,6,32,True,9,4,76.85
+Randomized Scenario,13,65,0.513,0.698,E,4,Nearest-Hotspot Baseline,65,33,0,25,2,7,17.88,14,95,20,14.0,71.7,5,16,True,9,4,37.45
+Randomized Scenario,13,65,0.513,0.698,E,4,Fuzzy + Genetic Algorithm,65,30,0,25,0,9,3.24,16,102,24,12.0,68.9,5,14,True,9,4,25.28
+Randomized Scenario,29,65,0.695,0.427,S,4,Nearest-Hotspot Baseline,65,13,0,8,0,9,2.0,6,62,13,22.0,83.7,3,7,True,9,4,12.75
+Randomized Scenario,29,65,0.695,0.427,S,4,Fuzzy + Genetic Algorithm,65,22,0,8,0,9,3.44,9,78,19,19.0,78.5,3,15,True,9,4,18.89
+Randomized Scenario,47,65,0.572,0.494,W,4,Nearest-Hotspot Baseline,65,10,0,6,0,9,0.0,7,42,10,21.0,86.9,3,7,True,9,4,9.2
+Randomized Scenario,47,65,0.572,0.494,W,4,Fuzzy + Genetic Algorithm,65,10,0,6,0,9,0.0,8,46,10,20.0,85.4,3,7,True,9,4,9.6
+Randomized Scenario,71,65,0.554,0.646,N,4,Nearest-Hotspot Baseline,65,73,0,15,3,6,44.64,32,329,52,24.0,72.4,4,54,True,9,4,87.02
+Randomized Scenario,71,65,0.554,0.646,N,4,Fuzzy + Genetic Algorithm,65,44,0,16,0,9,0.0,14,95,34,14.0,71.7,4,19,True,9,4,31.5
